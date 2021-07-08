@@ -1,0 +1,51 @@
+aiogram @ file:///root/.cache/pypoetry/artifacts/50/56/bf/c3d0444fca7328e2d9a4ce996ebc67bce5e40e9e0f46d3e250ed9d8082/aiogram-2.11.2-py3-none-any.whl
+aiohttp @ file:///root/.cache/pypoetry/artifacts/bc/89/dc/d0442158090aa816d7341a92c7135ac0ab325a56906c83c30f1b3b3030/aiohttp-3.7.3-cp39-cp39-manylinux2014_x86_64.whl
+appdirs==1.4.4
+async-timeout @ file:///root/.cache/pypoetry/artifacts/e1/e7/dc/347dacf16e20e4b15a992103281583f3a03db422172dec1c5f08d68c07/async_timeout-3.0.1-py3-none-any.whl
+attrs @ file:///root/.cache/pypoetry/artifacts/f9/48/82/553e4bef24d3b294c0c18f27a7853f3ed151508efd144cb7ea37db1c48/attrs-20.3.0-py2.py3-none-any.whl
+Babel @ file:///root/.cache/pypoetry/artifacts/d9/3d/cd/73e78690454f079f3f9a6cbb78d75b98f6b8b2f982e5a58854a91e6cfd/Babel-2.9.0-py2.py3-none-any.whl
+CacheControl==0.12.6
+cachy==0.3.0
+certifi @ file:///root/.cache/pypoetry/artifacts/d8/df/24/ed696681f34f8916b0aef99138db9a94e37d54684b9829af34a7fd4e39/certifi-2020.12.5-py2.py3-none-any.whl
+cffi==1.14.5
+chardet @ file:///root/.cache/pypoetry/artifacts/8f/6f/1c/8085d730ad63c462222af30d0d01c4bd0caca5287e40b63c1fe8f529b7/chardet-3.0.4-py2.py3-none-any.whl
+cleo==0.8.1
+clikit==0.6.2
+colorama @ file:///root/.cache/pypoetry/artifacts/9e/b3/11/7d87ac44fdb2d557301f1f4086a37c080d1482a98751abe7cdbabbad26/colorama-0.4.4-py2.py3-none-any.whl
+commonmark @ file:///root/.cache/pypoetry/artifacts/11/56/f6/d054064b623fab5c7e4420f60d931f49fea2dacdebe1dc991201010c84/commonmark-0.9.1-py2.py3-none-any.whl
+crashtest==0.3.1
+cryptography==3.4.7
+distlib==0.3.2
+filelock==3.0.12
+html5lib==1.1
+idna==2.10
+jeepney==0.6.0
+keyring==21.8.0
+lockfile==0.12.2
+msgpack==1.0.2
+multidict @ file:///root/.cache/pypoetry/artifacts/50/52/68/be76cb65fe071cded07fcf9275127af235ca0230e50392fd093167b174/multidict-5.1.0-cp39-cp39-manylinux2014_x86_64.whl
+packaging==20.9
+pastel==0.2.1
+pexpect==4.8.0
+pkginfo==1.7.0
+poetry==1.1.7
+poetry-core==1.0.3
+ptyprocess==0.7.0
+pycparser==2.20
+Pygments @ file:///root/.cache/pypoetry/artifacts/a7/67/66/8b3533eda158a09ab0c48a9648abb73e1c67ed78d23d753b8feac9bd4d/Pygments-2.8.0-py3-none-any.whl
+pylev==1.4.0
+pyparsing==2.4.7
+pytz @ file:///root/.cache/pypoetry/artifacts/b0/a7/8d/54de3ab4d1ff29abbbca1e9ccbaefdc2a1b290138311b84f73bee16de1/pytz-2021.1-py2.py3-none-any.whl
+PyYAML @ file:///root/.cache/pypoetry/artifacts/dd/d9/3d/cbc42de28fcde705eb305497d2f3e5679ca7890234c51348b33c0f428f/PyYAML-5.4.1-cp39-cp39-manylinux1_x86_64.whl
+requests==2.25.1
+requests-toolbelt==0.9.1
+rich @ file:///root/.cache/pypoetry/artifacts/e5/9a/97/be9c9d4f5d949fe77d80072a09c69448bb3764e0d4ec28314a6ae3d2d6/rich-9.11.1-py3-none-any.whl
+SecretStorage==3.3.1
+shellingham==1.4.0
+six==1.16.0
+tomlkit==0.7.2
+typing-extensions @ file:///root/.cache/pypoetry/artifacts/ab/c3/72/446cb2c521f10fc837619e8a7c68ed3c3bd74859bd625b7d74f38a159b/typing_extensions-3.7.4.3-py3-none-any.whl
+urllib3==1.26.6
+virtualenv==20.4.7
+webencodings==0.5.1
+yarl @ file:///root/.cache/pypoetry/artifacts/17/43/63/9e2d04a9fa31a3f7f8c75f6fe91ae367f547496ef168b48ef8ffea89f3/yarl-1.6.3-cp39-cp39-manylinux2014_x86_64.whl
